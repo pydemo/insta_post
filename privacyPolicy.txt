@@ -1,0 +1,141 @@
+# Privacy Policy
+
+Last Updated: December 23, 2024
+
+## 1. Introduction
+
+Welcome to [Your App Name] ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Instagram Business application.
+
+## 2. Information We Collect
+
+### 2.1 Information from Instagram/Facebook
+We collect the following information through the Instagram Graph API:
+- Instagram Business Account information
+- Profile data
+- Post analytics
+- Audience insights
+- Media content
+- Comments and engagement metrics
+- Stories and Reels analytics
+
+### 2.2 User-Provided Information
+- Account credentials for our service
+- Business information
+- Contact information
+- Payment information (if applicable)
+- User preferences and settings
+
+### 2.3 Automatically Collected Information
+- Device information
+- IP address
+- Browser type
+- Operating system
+- Access times and dates
+- App usage statistics
+
+## 3. How We Use Your Information
+
+We use the collected information for:
+- Providing and maintaining our services
+- Analyzing and improving app performance
+- Communicating with users about service updates
+- Processing payments and transactions
+- Generating analytics and reports
+- Complying with legal obligations
+- Detecting and preventing fraud
+
+## 4. Data Sharing and Disclosure
+
+We may share your information with:
+- Service providers and business partners
+- Analytics providers
+- Payment processors
+- Legal authorities when required by law
+- Third parties in the event of a business transfer or merger
+
+We do not sell your personal information to third parties.
+
+## 5. Data Security
+
+We implement appropriate technical and organizational measures to protect your information, including:
+- Encryption of sensitive data
+- Regular security assessments
+- Access controls
+- Secure data storage
+- Regular backups
+- Employee training on data protection
+
+## 6. User Rights
+
+You have the right to:
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your data
+- Opt-out of certain data collection
+- Export your data
+- Withdraw consent for data processing
+
+## 7. Data Retention
+
+We retain your information for as long as:
+- Your account is active
+- Needed to provide our services
+- Required by law
+- Necessary for legitimate business purposes
+
+## 8. International Data Transfers
+
+We may transfer data internationally in compliance with applicable data protection laws and regulations, including:
+- EU-US Privacy Shield
+- Standard Contractual Clauses
+- Binding Corporate Rules
+
+## 9. Children's Privacy
+
+Our service is not intended for users under 13 years of age. We do not knowingly collect information from children under 13.
+
+## 10. Changes to Privacy Policy
+
+We may update this Privacy Policy periodically. Users will be notified of significant changes via:
+- Email notification
+- In-app notification
+- Website announcement
+
+## 11. Cookie Policy
+
+We use cookies and similar technologies to:
+- Maintain user sessions
+- Remember preferences
+- Analyze app usage
+- Improve user experience
+
+## 12. Contact Information
+
+For privacy-related inquiries:
+- Email: privacy@[yourapp].com
+- Address: [Your Business Address]
+- Phone: [Your Contact Number]
+
+## 13. Compliance
+
+This Privacy Policy complies with:
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Other applicable data protection laws
+
+## 14. Instagram Platform Policy
+
+We comply with Instagram's Platform Policy and:
+- Only request necessary permissions
+- Protect user privacy
+- Follow data usage guidelines
+- Maintain data security standards
+
+## 15. Dispute Resolution
+
+Any privacy-related disputes will be resolved through:
+- Direct communication
+- Mediation
+- Applicable legal procedures
+
+This Privacy Policy constitutes a legally binding agreement between users and [Your App Name].
